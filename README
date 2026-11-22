@@ -1,0 +1,55 @@
+# Warehouse Management System (WMS)
+
+A Warehouse Management System designed to streamline warehouse operations, improve inventory accuracy, and simplify order processing.
+
+## Project Overview
+
+This project focuses on developing a centralized system to manage warehouse activities, including receiving, inventory management, storage, order processing, picking, packing, shipping, and returns.
+
+## Key Features
+
+- Inventory and stock management
+- Goods receiving and quality inspection
+- Order processing and fulfillment
+- Picking, packing, and shipping management
+- Returns handling
+- Manager dashboard and reporting
+- Barcode scanner support and RFID pilot
+- ERP and accounting system integration
+- User roles and access management
+
+## Planned Technologies
+
+- **Backend:** PHP / Laravel
+- **Database:** MySQL 8
+- **Frontend:** HTML, CSS, Bootstrap
+- **Mobile Application:** Android
+- **Integration:** REST APIs
+
+## Project Objectives
+
+- Improve inventory accuracy.
+- Reduce order fulfillment time.
+- Minimize stock errors and misplaced items.
+- Improve warehouse productivity.
+- Provide real-time inventory information and reports.
+
+## Project Scope
+
+- Single mid-size warehouse
+- Up to 50 concurrent users
+- Approximately 10,000 active inventory items
+
+## Project Management
+
+- **Course:** Project Management 495
+- **Duration:** 26 Working Weeks
+- **Estimated Budget:** BDT 3,080,000
+
+## Project Status
+
+Academic project — planning and system design.
+
+## Author
+
+**Abu Sufian**
